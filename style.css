@@ -18,7 +18,7 @@ body {
 
 #counter-value {
     font-size: 5rem;
-    font-weight: bold;
+    font-weight: normal;
     color: #333;
     margin: 20px 0;
 }
